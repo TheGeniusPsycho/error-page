@@ -201,28 +201,28 @@ h2 {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   html {
     overflow-x: hidden;
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: 3vh;
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 2vh;
   }
   p {
-    font-size: 1rem;
+    font-size: 2vh;
   }
   .error-photo {
-    top: 10rem;
-    left: 2rem;
+    top: 10vh;
+    left: 2vh;
     width: 300%;
   }
   .error {
-    font-size: 3rem;
+    font-size: 5vh;
   }
   .content {
     position: relative;

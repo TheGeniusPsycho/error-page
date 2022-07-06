@@ -201,7 +201,7 @@ h2 {
   }
 }
 
-@media (max-width: 395px) {
+@media (max-width: 600px) {
   html {
     overflow-x: hidden;
   }
